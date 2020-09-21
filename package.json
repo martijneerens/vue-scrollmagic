@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "gsap": "^3.0.0",
-    "scrollmagic": "git+https://github.com/martijneerens/vue-scrollmagic.git#master",
+    "scrollmagic": "git+https://github.com/martijneerens/vue-scrollmagic.git",
     "vue": "^2.6.12"
   },
   "devDependencies": {
